@@ -6,23 +6,6 @@ In prior roles I assisted adoption of automation, tuned processes with Lean & Si
 
 Continuing as a seasoned architect and engineer, I have always addressed multiple scopes (Enterprise, Process, Solution, & Technical) carrying broad experience in infrastructure, applications, and business process automation technologies.  I have been trusted to address multiple regulatory controls and management of transformations underpinned by ITAR/DFARS/FISMA/FedRAMP, SOX, HIPAA, PCI-DSS, PA-DSS, and GDPR.  I still practice application design, development, and deployment while applying DevOps or DevSecOps as our focus of culture change.
 
-Experiences:
-Clouds: AWS, Azure, GCP, OpenStack, VMware.
-
-Configuration Management (SACM): HP UCMDB/UD, BMC Atrium CMDB, CA CMDB, IBM CCMDB/TADDM
-
-Enterprise Monitoring & Management : MS Systems Center (SCOM), HPE Ops Bridge (BSM/OMi), CA UIM, and HPE CSA (with integrations to Asset Manager, Operations Orchestration (OO), Server Automation (SA), and VMware), Telegraf/InfluxDB
-
-Programming: Perl, PHP, Python, PowerShell, Bash, Javascript (MEAN/MERN), X/HTML, Terraform (HCL), Go language
-
-Stack Experiences: LAMP, MEAN, MERN, ELK
-
-Architecture Experience: TOGAF 9 Certified - Practiced TOGAF, Zachmann, ITILv3 Foundations Certified (prior v2), IT4IT
-
-Industries: Aerospace, Communications, Defense, Energy, Entertainment, Finance, Healthcare & Human Services, Hospitality, Life Sciences, Logistics, Manufacturing, Retail, Transportation, and Travel.
-
-Evolving with cloud security models.  Currently pursuing CISSP, CCSP, and UiPath RPA Developer certifications.
-
 **rondemena/rondemena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears in his GitHub profile.
 
 Here are some ideas to get you started:
