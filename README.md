@@ -8,9 +8,9 @@ Continuing as a seasoned architect and engineer, I have always addressed multipl
 
 **rondemena/rondemena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears in his GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on changing the game with US Medicaid and Medicare!
+- 💬 Ask me about Robotic Process Automation
+- ⚡ Fun facts: I ran the 1996 Olympic Torch Relay, Hold a US Patent, and compete in Archery!
 
 <!--
 - 🌱 I’m currently learning ...
