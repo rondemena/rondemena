@@ -1,4 +1,4 @@
-Currently I am the Director of Engineering for Digital Workforce at Gainwell Technologies, LLC.  I lead a team of several in removing toil from the daily grind by securely automating many traditional tasks which #intelligentAutomation can address today.
+Currently I am the Director of Engineering for Digital Workforce at Gainwell Technologies LLC.  I lead a team of several in removing toil from the daily grind by securely automating many traditional tasks which #intelligentAutomation can address today.
 
 In my former role, I led DXC Technology's, Security Engineering & Architecture organization, moving them towards a more DevSecOps model of engagement using Agile methods and adopting common key principles of API First, and Security First. I had been responsible for increasing observability and measurability of security outcomes for Delivery, and my team developed for our security portfolio offerings and platform, operated in and supported public cloud security, and accelerated corporate change by becoming an enabler. 
 
