@@ -1,4 +1,4 @@
-Currently I am a Sevice Operations Director for Capgemini's Cloud & Infrastructure Services (CIS).  I am operating in the role of Global Head of Delivery Modernization.  As I assist in strategic transformation of the business, I am available for questions or insights via the links available below.
+As a **Sevice Operations Director** for Capgemini's Cloud & Infrastructure Services (CIS), I serve as the **CIS Chief Engineer** globally.  I assist in strategic transformation of the business, leadership over the engineering activities and outcomes, and assist in the innovation of our services.
 
 In former roles I was:
 - ***Director of Engineering*** for Digital Workforce at Gainwell Technologies LLC, where I lead a team of several in removing toil from the daily grind by securely automating many traditional tasks which #intelligentAutomation can address today.
@@ -7,14 +7,14 @@ In former roles I was:
 
 Other former roles, all pre-merger (EDS, HP, HPE) I was responsible for Applications, Business Process Services, and Industry Software & Solutions improvements, holding significant experience in Travel Transportation & Hospitality, Healthcare & Life Sciences, and Aerospace & Defense industry segments.
 
-Continuing as a seasoned architect and engineer, I have always addressed multiple scopes (Enterprise, Process, Solution, & Technical) carrying broad experience in infrastructure, applications, and business process automation technologies.  I have been trusted to address multiple regulatory controls and management of transformations underpinned by ITAR/DFARS/FISMA/FedRAMP/CMMC, SOX, HIPAA, PCI-DSS, PA-DSS, and GDPR.  I still practice application design, development, and deployment while applying DevOps or DevSecOps as our focus of culture change.
+Continuing as a seasoned architect and engineer, I have addressed multiple scopes (Enterprise, Process, Solution, & Technical) carrying broad experience in infrastructure, applications, and business process automation technologies.  I continue to be trusted with management of multiple regulatory controls and transformations underpinned more specifically by ITAR, DFARS, FISMA, FedRAMP, CMMC, SOX, HIPAA, PCI-DSS, PA-DSS, and GDPR.  Recently I have begun broader exposure and experience in DORA, and am expanding in data sovereignty, residency, and privacy controls across the Middle East, India, and Asia.  I still actively practice application design, development, and deployment while applying DevOps or DevSecOps as our focus of culture change.
 
 **rondemena/rondemena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears in his GitHub profile.
 
 - 🔭 I’m currently working on strategic transformation of Capgemini Cloud and Infrastructure Services!
 - 💬 Ask me about Observability, Automation, and Insights!
 - ⚡ Fun facts: I ran the 1996 Olympic Torch Relay, Hold a US Patent, and have won several indoor archery competitions in freestyle classes!
-- 🌱 I’m currently re-learning python, and leveraging AI to master golang.
+- 🌱 I’m currently expanding my skills in python, golang, and leveraging AI to master Typescript.
 - 📫 How to reach me: [https://linkedin.com/in/demena](https://linkedin.com/in/demena)
 
 <!--
